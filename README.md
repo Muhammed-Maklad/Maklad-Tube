@@ -35,10 +35,12 @@ This Python application provides a user-friendly GUI for downloading YouTube vid
     pip install -r requirements.txt
     ```
 
-3. **Run the application:**
-    ```sh
-    python MakladTube.py
-    ```
+3. **Run The code**
+   ```
+   MakladTude.py
+   ```
+5. **Make Sure You put the rigth path in line : 104 , 169 , 178**
+
 ## Usage
 
 - Enter a YouTube video URL in the input field.
