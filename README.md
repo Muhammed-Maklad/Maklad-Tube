@@ -44,6 +44,7 @@ This Python application provides a user-friendly GUI for downloading YouTube vid
 - Enter a YouTube video URL in the input field.
 - Choose the desired format (MP4 or MP3) and quality.
 - Select a download directory or use the default.
+- By defulat it downloads in Downloads of the device
 - Click the "Download" button to start downloading.
 
 ## Issues
