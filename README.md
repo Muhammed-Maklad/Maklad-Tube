@@ -1,6 +1,7 @@
 # Maklad-Tube
 This Python application provides a user-friendly GUI for downloading YouTube videos and playlists. It allows users to specify video formats (MP4 or MP3) and quality settings. The application supports downloading single videos as well as entire playlists, displaying real-time download progress and completion status.
 
+![time](https://github.com/Muhammed-Maklad/Maklad-Tube/assets/119490645/04d66951-4b42-410b-a27d-c183ac9fb89d)
 ## Features
 
 - Download videos from YouTube by entering the URL.
