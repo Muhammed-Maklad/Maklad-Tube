@@ -48,7 +48,7 @@ This Python application provides a user-friendly GUI for downloading YouTube vid
 
 ## Issues
 
-If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/your-username/Maklad_downloader/issues).
+If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/Muhammed-Maklad/Maklad-Tube/issues).
 
 ## License
 
