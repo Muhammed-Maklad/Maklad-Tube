@@ -14,15 +14,6 @@ This Python application provides a user-friendly GUI for downloading YouTube vid
 
 ## Installation
 
-1. **Download:**
-   - Go to the [Releases](https://github.com/Muhammed-Maklad/Maklad-Tube/releases) section.
-   - Download the latest version (`MakladTube.exe`).
-
-2. **Run:**
-   - Double-click `MakladTube.exe` to launch the application.
-   - Follow the on-screen instructions to use the downloader.
-
-## Git Clone    
 1. **Clone the repository:**
     ```sh
     git clone https://github.com/Muhammed-Maklad/Maklad-Tube.git
