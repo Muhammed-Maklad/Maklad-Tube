@@ -31,7 +31,7 @@ This Python application provides a user-friendly GUI for downloading YouTube vid
    MakladTude.py
    ```
 5. **Make Sure You put the rigth path in line : 104 , 169 , 178**
-6. TO Convert it To application You only need to  write that command
+6. **To Convert it To application You only need to  write that command**
    ```
    pyinstaller --onefile --noconsole --icon=Youtube.ico MakladUTube.py
    ```
